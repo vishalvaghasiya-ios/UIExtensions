@@ -1,3 +1,4 @@
+import Foundation
 public extension String {
     
     /// Converts the string to a Double value.
